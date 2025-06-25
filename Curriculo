@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Currículo - Melissa de Castro Alves</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    body {
+      background-color: #f9fafc;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      margin: 0;
+      padding: 0;
+      display: flex;
+      justify-content: center;
+      align-items: flex-start;
+      min-height: 100vh;
+    }
+
+    .container {
+      background-color: white;
+      max-width: 800px;
+      margin: 40px 20px;
+      padding: 30px;
+      border-radius: 16px;
+      box-shadow: 0 0 20px rgba(0,0,0,0.08);
+    }
+
+    h1 {
+      color: #1e3a8a;
+      font-size: 2em;
+      margin-bottom: 5px;
+    }
+
+    h2 {
+      color: #2563eb;
+      border-bottom: 2px solid #dbeafe;
+      padding-bottom: 5px;
+      margin-top: 30px;
+    }
+
+    p, li {
+      color: #374151;
+      line-height: 1.6;
+    }
+
+    ul {
+      padding-left: 20px;
+    }
+
+    a {
+      color: #3b82f6;
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    .header-info {
+      margin-bottom: 20px;
+    }
+
+    .label {
+      font-weight: bold;
+    }
+
+    @media (max-width: 600px) {
+      .container {
+        padding: 20px;
+      }
+
+      h1 {
+        font-size: 1.5em;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Melissa de Castro Alves</h1>
+    <div class="header-info">
+      <p><span class="label">Email:</span> melissacastroalves5@gmail.com</p>
+      <p><span class="label">Telefone:</span> (41) 98748-9435</p>
+      <p><span class="label">LinkedIn:</span> <a href="https://www.linkedin.com/in/melissa-castro-655802244" target="_blank">Meu perfil</a></p>
+    </div>
+
+    <h2>🎯 Objetivo</h2>
+    <p>Atuar na área de <strong>Tecnologia da Informação</strong>, incluindo análise, desenvolvimento, infraestrutura ou suporte técnico. Busco vagas de estágio ou CLT, com interesse em home office.</p>
+
+    <h2>🎓 Formação Acadêmica</h2>
+    <p><strong>Análise e Desenvolvimento de Sistemas – UNOPAR</strong><br>
+    Conclusão prevista: Dezembro de 2025</p>
+
+    <h2>💼 Experiência Profissional</h2>
+    <ul>
+      <li><strong>TahTo</strong> – Especialista de Atendimento (Abr/2025 – atualmente)<br>
+        Atendimento receptivo na célula CRV, suporte ao cliente, uso de sistemas internos, metas de desempenho e comunicação com excelência.</li>
+      <li><strong>Leroy Merlin</strong> – Jovem Aprendiz (Mai/2023 - Abr/2024)<br>
+        Atendimento ao cliente, operação de caixa, cadastro no sistema LMCV, apoio à equipe e metas de conversão.</li>
+      <li><strong>Alves Refrigeração</strong> – Atendente (Fev/2020 - Fev/2023)<br>
+        Atendimento ao público, organização de pedidos, suporte administrativo e relacionamento com clientes.</li>
+    </ul>
+
+    <h2>🛠️ Habilidades</h2>
+    <ul>
+      <li>Montagem e manutenção de computadores</li>
+      <li>HTML, CSS e lógica de programação</li>
+      <li>Diagnóstico de hardware e software</li>
+      <li>Git e GitHub (básico)</li>
+      <li>Excel, Word e PowerPoint</li>
+      <li>Inglês básico | Espanhol intermediário</li>
+    </ul>
+
+    <h2>💡 Projetos</h2>
+    <p>Portfólio em desenvolvimento com projetos práticos em HTML, CSS e suporte técnico.</p>
+
+    <h2>📍 Localização</h2>
+    <p>Colombo – PR | Disponível para trabalho home office ou híbrido.</p>
+  </div>
+</body>
+</html>
